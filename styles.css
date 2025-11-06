@@ -1,2 +1,7 @@
-
-/* Your CSS Code here. */
+*{
+	margin:4;
+	padding:4
+}
+h1{
+	text-align:center
+}
